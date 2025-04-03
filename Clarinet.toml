@@ -1,0 +1,29 @@
+[project]
+name = 'Transparent-Public-Transportation-Subsidy-Management'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.benefit-issuance]
+path = 'contracts/benefit-issuance.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.recipient-verification]
+path = 'contracts/recipient-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.usage-tracking]
+path = 'contracts/usage-tracking.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
