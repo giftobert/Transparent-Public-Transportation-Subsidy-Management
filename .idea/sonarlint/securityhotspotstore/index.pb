@@ -11,3 +11,5 @@ T
 $tests/recipient-verification.test.ts,7/d/7dd1359138fcb39e256a8cfa599cf4b6648fbb0e
 M
 contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
+L
+tests/usage-tracking.test.ts,f/3/f3ccbb830bb90abf63cbc09d0b13119cf315d93c
