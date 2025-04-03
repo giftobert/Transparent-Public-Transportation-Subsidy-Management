@@ -7,3 +7,7 @@ N
 tests/benefit-issuance.test.ts,9/c/9cb20519a782a45aec9cb16d933a5c4e1e5ab6aa
 U
 %contracts/recipient-verification.clar,b/3/b306b45d90d64a43712fe5ac47a7f979d6ff0a08
+T
+$tests/recipient-verification.test.ts,7/d/7dd1359138fcb39e256a8cfa599cf4b6648fbb0e
+M
+contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
